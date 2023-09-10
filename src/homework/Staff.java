@@ -4,11 +4,6 @@ import homework.annotations.*;
 
 import java.util.Objects;
 
-/**
- * 06/09/2023 Java Reflection API
- *
- * @author Wladimir Weizen
- */
 class Staff {
   @Int
   @PrimaryKey

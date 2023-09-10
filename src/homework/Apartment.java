@@ -4,12 +4,6 @@ import homework.annotations.*;
 
 import java.util.Objects;
 
-/**
- * 07/09/2023
- * Java Reflection API
- *
- * @author Wladimir Weizen
- */
 public class Apartment {
 
   @Int
